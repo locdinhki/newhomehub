@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "newhomehub", "newhomehub\newhomehub.csproj", "{E6248939-4F92-46AA-B992-01C81AFB2E3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6248939-4F92-46AA-B992-01C81AFB2E3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6248939-4F92-46AA-B992-01C81AFB2E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6248939-4F92-46AA-B992-01C81AFB2E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6248939-4F92-46AA-B992-01C81AFB2E3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C07B333-62A9-4480-B1A6-E648FA3EB92A}
+	EndGlobalSection
+EndGlobal
